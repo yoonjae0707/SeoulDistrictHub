@@ -1,0 +1,3 @@
+# No external dependencies required!
+# This project runs entirely on Python's built-in standard library (http.server, json, etc.).
+# Simply run: python main.py
